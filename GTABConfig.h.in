@@ -1,0 +1,3 @@
+// the configured options and settings for Tutorial
+#define CPPSMD_VERSION_MAJOR @CPPSMD_VERSION_MAJOR@
+#define CPPSMD_VERSION_MINOR @CPPSMD_VERSION_MINOR@
